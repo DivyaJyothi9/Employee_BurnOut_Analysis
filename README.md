@@ -6,11 +6,8 @@ This project aims to predict employee burnout based on several factors such as m
 
 ### Key Highlights:
 - **Machine Learning Models**: Linear Regression, K-Nearest Neighbors (KNN)
-- 
 - **Tech Stack**:Pandas, Scikit-Learn, Matplotlib, Seaborn, Google Colab
-- 
 - **Goal**: To predict the **Burn Rate** (a metric indicating employee burnout) based on various employee-related features.
-  
 ---
 
 ## Table of Contents
